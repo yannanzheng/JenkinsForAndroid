@@ -14,7 +14,7 @@ public class OperateTest {
 
         int a=10;
         int b=29;
-        assertEquals(38,operate.plus(a,b));
+        assertEquals(39,operate.plus(a,b));
         System.out.println("运行了测试");
 
     }
